@@ -19,6 +19,8 @@ We're attending a wedding and the newlyweds-to-be want to know what types of foo
 - Two _required_ parameters for vegetables. Ex: `veg1` and `veg2`
 - And an _optional_ parameter for `protein` with a default value of `meat`
 
+***You should write your code in the file `lib/meal_choice.rb`.***
+
 ## Use `puts` to Output a String
 
 Whether you're omnivorous, vegetarian, or vegan, you're going to be eating a
